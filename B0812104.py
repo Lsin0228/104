@@ -1,2 +1,2 @@
 print ('hello python & git')
-print ('b0812075到此一遊')
+print ('到此一遊')
